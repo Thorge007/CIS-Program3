@@ -1,0 +1,10 @@
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\bin\Debug\Program3.exe.config
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\bin\Debug\Program3.exe
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\bin\Debug\Program3.pdb
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\obj\Debug\Program3.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\obj\Debug\Program3.uPickItGroceryCalculator.resources
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\obj\Debug\Program3.Properties.Resources.resources
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\obj\Debug\Program3.csproj.GenerateResource.cache
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\obj\Debug\Program3.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\obj\Debug\Program3.exe
+C:\Users\Will\Desktop\CIS 199\Program3\Program3\obj\Debug\Program3.pdb
